@@ -3,7 +3,7 @@ const MenuSvg = ({ openNavigation }) => {
     <svg
       className="overflow-visible"
       width="20"
-      height="12"
+      height="40"
       viewBox="0 0 20 12"
     >
       <rect
